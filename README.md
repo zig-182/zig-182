@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zig
-🐍 Software developer specialising in Python, currently working part-time on AI training tools<br>🇹🇼 Worked as a technical writer for about ten years in Taiwan (absolutely loved it)<br>🧑‍🎓 Studied Philosophy at the University of Nottingham and Mandarin at the National Taiwan Normal University<br>🖥️ My interests include cybersecurity, networking and most recently, coding<br>⛷️ My hobbies include studying Chinese, running, cycling, cooking and skiing<br>🏃 Fun fact: I'm a sub 3-hour marathon runner<br><br>
+🐍 Currently learning Python to enhance my skill set<br>🇹🇼 Worked as a technical writer for about ten years in Taiwan (absolutely loved it)<br>🧑‍🎓 Studied Philosophy at the University of Nottingham and Mandarin at the National Taiwan Normal University<br>🖥️ My interests include cybersecurity, networking and most recently, coding<br>⛷️ My hobbies include studying Chinese, running, cycling, cooking and skiing<br>🏃 Fun fact: I'm a sub 3-hour marathon runner<br><br>
 
 
 # 💻 Tech Stack
